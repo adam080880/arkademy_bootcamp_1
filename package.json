@@ -1,0 +1,24 @@
+{
+  "name": "bootcamp_task_1",
+  "version": "1.0.0",
+  "description": "First task in arkademy bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam080880/arkademy_bootcamp_1.git"
+  },
+  "keywords": [
+    "task",
+    "bootcamp",
+    "training"
+  ],
+  "author": "Muhamad Adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam080880/arkademy_bootcamp_1/issues"
+  },
+  "homepage": "https://github.com/adam080880/arkademy_bootcamp_1#readme"
+}
